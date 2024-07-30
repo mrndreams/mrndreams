@@ -4,5 +4,5 @@
 
 I currently just make cool personal projects and i wouldnt describe myself as professional so i dont currently take commissions for any programming work, but if theres anything you think id be interested in feel free to message me !!
 
-> - [Website](https://mrndreams.digital)
+> - [Website](https://mrndreams.github.io)
 > - [Discord](https://discord.com/users/596005713499652126)
